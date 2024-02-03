@@ -1,0 +1,1 @@
+$("#myContainer").append("<h1>Main Heading Element appended Dynamically</h1>").css("color","blue");

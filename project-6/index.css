@@ -1,0 +1,18 @@
+.heading-old-styles {
+  color: #00ff00;
+  background-color: #000000;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #0967d2;
+  font-size: 14px;
+  border-width: 0;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.heading-new-styles {
+  color: #ff0000;
+  background-color: #ffffff;
+}

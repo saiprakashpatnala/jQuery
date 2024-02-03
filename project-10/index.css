@@ -1,0 +1,20 @@
+.button {
+  width: 200px;
+  margin: 10px;
+}
+
+.border-shorthand{
+    border:6px solid blue
+}
+.border-top-none{
+    border-top: none;
+}
+.border-bottom-none{
+    border-bottom: none;
+}
+.border-left-none{
+    border-left: none;
+}
+.border-right-none{
+    border-right: none;
+}

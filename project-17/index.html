@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Page Title</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+
+  <body>
+    <div class="text-center">
+      <p class="message-text" id="message"></p>
+      <button onclick="inlineEventListener()" class="btn-primary mb-3">
+        Button with Inline event listener
+      </button>
+      <button id="onEventListenerBtn" class="btn-secondary mb-3">
+        Button with onevent listener
+      </button>
+      <button id="addEventListenerBtn" class="btn-warning mb-3">
+        Button with addEventListener
+      </button>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="index.js" charset="utf-8"></script>
+  </body>
+</html>
